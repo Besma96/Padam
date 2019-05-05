@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PadamLight</string>
+    <string name="hint_from">D\'où venez-vous</string>
+    <string name="hint_to">Où allez-vous ?</string>
+    <string name="button_search">Lancer la recherche</string>
+
+    <!-- Used in NavigationDrawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
