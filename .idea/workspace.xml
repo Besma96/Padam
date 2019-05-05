@@ -7,18 +7,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ab3621-88fe-4fa6-b4c6-a54e4fd69eb4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/DirectionHelpers/DataParser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/DirectionHelpers/FetchURL.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/DirectionHelpers/PointsParser.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/DirectionHelpers/TaskLoadedCallback.java" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/CV Besma KAOUANE.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/Cv.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/FindRoute/DirectionFinder.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/FindRoute/GetUrlConnected.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/Main_Activity.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/MapFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/MapFragment.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/MapFragmentDelegate.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/Modules/Routes.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/SearchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/padamlight/SearchActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cv.PNG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_nav_header.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/cv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_menu_drawer.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/drawables.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
